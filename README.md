@@ -4,7 +4,9 @@
 
 A studio landing page built around a GSAP image-stack preloader with a counter, then a staggered hero reveal.
 
-Demo video: [demo.mp4](./demo.mp4)
+[![Demo](./demo.webp)](./demo.mp4)
+
+_Click the preview for the full-quality video._
 
 **Tech stack:** Next.js 16 · React 19 · GSAP 3 · Tailwind CSS 4 · TypeScript
 
