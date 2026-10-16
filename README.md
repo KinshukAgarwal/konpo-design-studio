@@ -6,7 +6,6 @@ A studio landing page built around a GSAP image-stack preloader with a counter, 
 
 **Tech stack:** Next.js 16 · React 19 · GSAP 3 · Tailwind CSS 4 · TypeScript
 
-Demo video: [demo.mp4](./demo.mp4)
 
 ## Run locally
 
